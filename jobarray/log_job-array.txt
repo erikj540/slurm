@@ -1,0 +1,17 @@
+Number of CPUs (tasks): 24
+Memory allocated per CPU: 
+Total memory allocated: 5120
+Job name: job-array
+Job ID: 10188541
+Time: 
+Job node list: fijinode-11
+Node list: fijinode-11
+Submit dir: /Users/erjo3868/slurm/jobarray
+ARRAY_JOB_ID: 
+ARRAY_TASK_ID: 
+ARRAY_TASK_COUNT: 
+ARRAY_TASK_MAX: 
+ARRAY_TASK_MIN: 
+logs/job-array_10188541.err is empty. Deleting...
+Time: 
+ls: cannot access /does/not/exist: No such file or directory
